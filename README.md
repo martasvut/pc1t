@@ -7,3 +7,25 @@ Focus on:
  - commit reorder
  - commit split
  - conflict
+
+
+## Discuss
+
+### Basics
+
+ - `init` and `clone`
+ - `commit`
+ - `checkout`
+ - `merge`
+ - `push` and `pull`
+
+### Advanced
+
+ - `rebase`
+ - `push --force` 
+ - more *origins*
+
+### Workflows
+ - cloning
+ - forking
+ - [gitflow workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
